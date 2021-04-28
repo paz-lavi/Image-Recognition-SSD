@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SSD</string>
+    <string name="select">Select</string>
+    <string name="detect">Detect</string>
+    <string name="per">%1$s%2$s</string>
+    <string name="takePhoto">open camera</string>
+</resources>
